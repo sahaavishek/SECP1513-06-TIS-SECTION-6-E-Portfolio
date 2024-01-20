@@ -1,3 +1,5 @@
 Reflection on Assignment 3 – Video on Virtual Talk and Visit to UTM Digital
 
-During the PC assembly lab, I acquired practical knowledge of computer hardware through hands-on experience. The session comprised a systematic guide for constructing a PC. Working together with my peers in a group environment, we actively participated in the assembly process. This hands-on activity offered me valuable insights into the complexities of hardware components, improving my comprehension of PC construction. By the session's conclusion, the components that were initially disassembled had seamlessly come together to form a functional computer.
+UTM Digital's virtual talk and industry visit provided a captivating glimpse into the university's hidden technological landscape. Exploring complex architecture and diverse functionalities, I connected with the enthusiastic "UTM team." Witnessing their dedication behind the scenes transformed my view, enhancing my digital campus experience. Beyond education, it was a source of enjoyment and a catalyst for personal transformation.
+
+
