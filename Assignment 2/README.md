@@ -1,1 +1,5 @@
 
+
+Reflection on Assignment 2 – Poster on Industrial Talk 1
+
+Industrial talks equip me with the tools and resources needed to land my dream IT job. Through hands-on training and expert speakers, I will develop the right traits, skills, and qualifications that companies seek. From building relevant credentials to cultivating genuine enthusiasm for the field, this initiative sets future professionals on the path to success in the ever-changing tech landscape.
