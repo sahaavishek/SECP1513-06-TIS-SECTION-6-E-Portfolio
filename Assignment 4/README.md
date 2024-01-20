@@ -1,1 +1,2 @@
-
+# Assignment 4 – Report on Industrial Talk 2
+Miss Qistina Batrisya Binti Azman Shah of Credence presented a captivating discourse on IT analytics, providing insights into real-world examples from Credence's analytics team. The session delved into varied career paths and departmental structures, offering a glimpse into the dynamic realm of analytics at Credence and sparking my interest in potential future opportunities.
