@@ -1,1 +1,2 @@
-
+# Design Thinking Report on Design Thinking
+I contributed thoughts for a potential prototype that may be created in order to create the project and report's introduction using design thinking. The 'Hostel Hero' app is the idea that aims to make things easier for college administration and students. The application includes features like forums, event announcements, and roommate locating tools to promote community. I collaborate well with others in a team by utilizing my soft skills in critical analysis, effective communication, group work, and prototype creation. To ensure that the hostel management application is in sync with user expectations and provides a useful solution, I take part in the iterative design, prototype design, development, and modification process.
